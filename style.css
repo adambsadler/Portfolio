@@ -1,7 +1,7 @@
 body {
     background: url("img/HoN\ Cover.png") no-repeat center center fixed;
-    -webkit-background-size: 100vw auto;
-    -moz-background-size: 100vw auto;
-    background-size: 100vw auto;
-    -o-background-size: 100vw auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
