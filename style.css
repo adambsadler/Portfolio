@@ -5,3 +5,11 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+
+#gametext {
+    text-shadow: 2px 2px black;
+}
+
+#gameheader {
+    text-shadow: 2px 2px black;
+}
